@@ -1,0 +1,5 @@
+{
+  "name": "健身俱乐部管理系统 SQL 架构师",
+  "description": "一个全面的健身俱乐部管理系统数据库设计与 SQL 生成工具。包含模式可视化、SQL 脚本生成和 AI 辅助教学功能。",
+  "requestFramePermissions": []
+}
